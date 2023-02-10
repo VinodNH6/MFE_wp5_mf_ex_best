@@ -18,6 +18,6 @@ wp5-mf-shell
 > npm start  //localhost:3004
 
 
-
+"shell" application which loads micro front end apps like "Left Nav", "Top Nav" & "Items details" from different remote entries and renders a sample e-commerce site.
 
 https://medium.com/walmartglobaltech/module-federation-using-webpack-5-the-micro-frontend-journey-719688c5d73b
